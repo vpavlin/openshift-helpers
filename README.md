@@ -1,4 +1,4 @@
-OpenShift Helpers
+# OpenShift Helpers
 
 To use this, add content of `bash_aliases` to your `.bashrc` or `bash_aliases` file. 
 
